@@ -1,0 +1,27 @@
+.sidebar {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  width: 224px;
+  height: 100%;
+  padding: 24px 0 47px 0;
+  background: linear-gradient(180deg, #000000 0%, rgba(15, 13, 15, 0.65) 100%);
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.btn--reset {
+  all: unset;
+  cursor: pointer;
+  width: 160px;
+  height: 52px;
+  border-radius: 6px;
+  text-align: center;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 16px;
+  color: #ffffff;
+  background: #f0c551;
+}
