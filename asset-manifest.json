@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/cubos-puzzle/static/css/main.1a29ef9a.css",
-    "main.js": "/cubos-puzzle/static/js/main.aae1efe2.js",
-    "static/media/card-back.png": "/cubos-puzzle/static/media/card-back.a9f12982dab71372ca0a.png",
-    "static/media/htmlcss.png": "/cubos-puzzle/static/media/htmlcss.24df4f62493b38922231.png",
-    "static/media/react.png": "/cubos-puzzle/static/media/react.8d24e73eedd4c19e44a9.png",
-    "static/media/netlify.png": "/cubos-puzzle/static/media/netlify.91414e85772f27c024ae.png",
-    "static/media/heroku.png": "/cubos-puzzle/static/media/heroku.8d4dd40a00f11973139c.png",
-    "static/media/nodejs.png": "/cubos-puzzle/static/media/nodejs.d8a80bdb629299e0d8aa.png",
-    "static/media/javascript.png": "/cubos-puzzle/static/media/javascript.de727adf89a242b83ee9.png",
-    "index.html": "/cubos-puzzle/index.html",
-    "main.1a29ef9a.css.map": "/cubos-puzzle/static/css/main.1a29ef9a.css.map",
-    "main.aae1efe2.js.map": "/cubos-puzzle/static/js/main.aae1efe2.js.map"
+    "main.css": "/reactjs-estados-cubos-puzzle/static/css/main.1a29ef9a.css",
+    "main.js": "/reactjs-estados-cubos-puzzle/static/js/main.8927e0c7.js",
+    "static/media/card-back.png": "/reactjs-estados-cubos-puzzle/static/media/card-back.a9f12982dab71372ca0a.png",
+    "static/media/htmlcss.png": "/reactjs-estados-cubos-puzzle/static/media/htmlcss.24df4f62493b38922231.png",
+    "static/media/react.png": "/reactjs-estados-cubos-puzzle/static/media/react.8d24e73eedd4c19e44a9.png",
+    "static/media/netlify.png": "/reactjs-estados-cubos-puzzle/static/media/netlify.91414e85772f27c024ae.png",
+    "static/media/heroku.png": "/reactjs-estados-cubos-puzzle/static/media/heroku.8d4dd40a00f11973139c.png",
+    "static/media/nodejs.png": "/reactjs-estados-cubos-puzzle/static/media/nodejs.d8a80bdb629299e0d8aa.png",
+    "static/media/javascript.png": "/reactjs-estados-cubos-puzzle/static/media/javascript.de727adf89a242b83ee9.png",
+    "index.html": "/reactjs-estados-cubos-puzzle/index.html",
+    "main.1a29ef9a.css.map": "/reactjs-estados-cubos-puzzle/static/css/main.1a29ef9a.css.map",
+    "main.8927e0c7.js.map": "/reactjs-estados-cubos-puzzle/static/js/main.8927e0c7.js.map"
   },
   "entrypoints": [
     "static/css/main.1a29ef9a.css",
-    "static/js/main.aae1efe2.js"
+    "static/js/main.8927e0c7.js"
   ]
 }
