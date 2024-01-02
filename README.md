@@ -10,7 +10,7 @@
 
 ## 🔗 Quer acessar o projeto?
 
-Clique [aqui](https://eugenio-cyber.github.io/reactjs-estados-cubos-puzzle) para acessar o projeto.
+Clique [aqui](https://eugenio-cyber.github.io/reactjs-cubos-puzzle) para acessar o projeto.
 
 ## 🏹 Qual o objetivo do projeto?
 
